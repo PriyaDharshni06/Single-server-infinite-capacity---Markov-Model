@@ -1,4 +1,8 @@
+# NAME: PRIYA DHARSHNI.S
+# REG NO:24900865
+# EXP-4
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
+16/11/2024
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
@@ -20,6 +24,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
+![Screenshot 2024-12-18 145533](https://github.com/user-attachments/assets/a70572fe-6242-4642-a1fd-580b86a13490)
 
  
 ## Program
@@ -27,5 +32,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Output :
 
-## Result :
+![Screenshot 2024-12-18 145227](https://github.com/user-attachments/assets/e3b0f4e5-3f2a-4d6f-a383-f78d68283f41)
 
+## Result :
+The average number of material in the system and in the conveyor and waiting time are successfully found.
